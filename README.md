@@ -1,1 +1,1 @@
-Comidit.app Docs ^^ !
+Welcome to comidit.app docs ^^ !
