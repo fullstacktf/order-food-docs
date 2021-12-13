@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - feat/ci-cd
 jobs:
   deploy:
     name: Build & Deploy on Digital Ocean
