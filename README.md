@@ -1,1 +1,6 @@
-Welcome to comidit.app docs ^^ !
+# Welcome to comidit.app docs 😁
+
+## Contributors
+
+- Néstor Torres
+- Nicolás Cabrera
